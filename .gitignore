@@ -1,0 +1,14 @@
+# PHP / env
+vendor/
+.env
+.env.*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+*.rar
